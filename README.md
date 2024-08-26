@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer with about 3+ years of experience managing complex technical programs and projects in fast-paced environments, throughout my career, I have delivered projects on time, within budget, and to the satisfaction of stakeholders and UI Designers, demonstrating my ability to manage complex tasks and projects. 
+I am a Software Engineer / TPM with about 3+ years of experience managing complex technical programs and projects in fast-paced environments, throughout my career, I have delivered projects on time, within budget, and to the satisfaction of stakeholders and UI Designers, demonstrating my ability to manage complex tasks and projects. 
 
 Here are some of my achievements:
 
