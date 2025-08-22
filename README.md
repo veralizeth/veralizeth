@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Re-inventing - Under Construction :construction_worker: :construction:
+Re-inventing - Under Construction :construction_worker:
